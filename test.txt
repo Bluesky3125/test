@@ -12,3 +12,4 @@ nice to meet dev2
 nice to meet dev1
 
 feature/login 개발
+빼먹은 기능 마저 개발
